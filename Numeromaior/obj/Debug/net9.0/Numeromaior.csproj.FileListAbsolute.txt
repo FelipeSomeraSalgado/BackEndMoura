@@ -1,0 +1,14 @@
+C:\Users\46725344801\Desktop\BackEndMoura\Numeromaior\obj\Debug\net9.0\Numeromaior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46725344801\Desktop\BackEndMoura\Numeromaior\obj\Debug\net9.0\Numeromaior.AssemblyInfoInputs.cache
+C:\Users\46725344801\Desktop\BackEndMoura\Numeromaior\obj\Debug\net9.0\Numeromaior.AssemblyInfo.cs
+C:\Users\46725344801\Desktop\BackEndMoura\Numeromaior\obj\Debug\net9.0\Numeromaior.csproj.CoreCompileInputs.cache
+C:\Users\46725344801\Desktop\BackEndMoura\Numeromaior\bin\Debug\net9.0\Numeromaior.exe
+C:\Users\46725344801\Desktop\BackEndMoura\Numeromaior\bin\Debug\net9.0\Numeromaior.deps.json
+C:\Users\46725344801\Desktop\BackEndMoura\Numeromaior\bin\Debug\net9.0\Numeromaior.runtimeconfig.json
+C:\Users\46725344801\Desktop\BackEndMoura\Numeromaior\bin\Debug\net9.0\Numeromaior.dll
+C:\Users\46725344801\Desktop\BackEndMoura\Numeromaior\bin\Debug\net9.0\Numeromaior.pdb
+C:\Users\46725344801\Desktop\BackEndMoura\Numeromaior\obj\Debug\net9.0\Numeromaior.dll
+C:\Users\46725344801\Desktop\BackEndMoura\Numeromaior\obj\Debug\net9.0\refint\Numeromaior.dll
+C:\Users\46725344801\Desktop\BackEndMoura\Numeromaior\obj\Debug\net9.0\Numeromaior.pdb
+C:\Users\46725344801\Desktop\BackEndMoura\Numeromaior\obj\Debug\net9.0\Numeromaior.genruntimeconfig.cache
+C:\Users\46725344801\Desktop\BackEndMoura\Numeromaior\obj\Debug\net9.0\ref\Numeromaior.dll
