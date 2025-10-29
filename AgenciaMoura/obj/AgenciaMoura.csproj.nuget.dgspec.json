@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\46725344801\\Desktop\\Exercicio1-10\\AgenciaMoura\\AgenciaMoura.csproj": {}
+    "C:\\Users\\46725344801\\Desktop\\BackEndMoura\\AgenciaMoura\\AgenciaMoura.csproj": {}
   },
   "projects": {
-    "C:\\Users\\46725344801\\Desktop\\Exercicio1-10\\AgenciaMoura\\AgenciaMoura.csproj": {
+    "C:\\Users\\46725344801\\Desktop\\BackEndMoura\\AgenciaMoura\\AgenciaMoura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\46725344801\\Desktop\\Exercicio1-10\\AgenciaMoura\\AgenciaMoura.csproj",
+        "projectUniqueName": "C:\\Users\\46725344801\\Desktop\\BackEndMoura\\AgenciaMoura\\AgenciaMoura.csproj",
         "projectName": "AgenciaMoura",
-        "projectPath": "C:\\Users\\46725344801\\Desktop\\Exercicio1-10\\AgenciaMoura\\AgenciaMoura.csproj",
+        "projectPath": "C:\\Users\\46725344801\\Desktop\\BackEndMoura\\AgenciaMoura\\AgenciaMoura.csproj",
         "packagesPath": "C:\\Users\\46725344801\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\46725344801\\Desktop\\Exercicio1-10\\AgenciaMoura\\obj\\",
+        "outputPath": "C:\\Users\\46725344801\\Desktop\\BackEndMoura\\AgenciaMoura\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\46725344801\\AppData\\Roaming\\NuGet\\NuGet.Config"
