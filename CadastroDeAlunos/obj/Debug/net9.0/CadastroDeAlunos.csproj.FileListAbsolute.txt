@@ -1,0 +1,14 @@
+C:\Users\46725344801\Desktop\Exercicio1-10\CadastroDeAlunos\bin\Debug\net9.0\CadastroDeAlunos.exe
+C:\Users\46725344801\Desktop\Exercicio1-10\CadastroDeAlunos\bin\Debug\net9.0\CadastroDeAlunos.deps.json
+C:\Users\46725344801\Desktop\Exercicio1-10\CadastroDeAlunos\bin\Debug\net9.0\CadastroDeAlunos.runtimeconfig.json
+C:\Users\46725344801\Desktop\Exercicio1-10\CadastroDeAlunos\bin\Debug\net9.0\CadastroDeAlunos.dll
+C:\Users\46725344801\Desktop\Exercicio1-10\CadastroDeAlunos\bin\Debug\net9.0\CadastroDeAlunos.pdb
+C:\Users\46725344801\Desktop\Exercicio1-10\CadastroDeAlunos\obj\Debug\net9.0\CadastroDeAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46725344801\Desktop\Exercicio1-10\CadastroDeAlunos\obj\Debug\net9.0\CadastroDeAlunos.AssemblyInfoInputs.cache
+C:\Users\46725344801\Desktop\Exercicio1-10\CadastroDeAlunos\obj\Debug\net9.0\CadastroDeAlunos.AssemblyInfo.cs
+C:\Users\46725344801\Desktop\Exercicio1-10\CadastroDeAlunos\obj\Debug\net9.0\CadastroDeAlunos.csproj.CoreCompileInputs.cache
+C:\Users\46725344801\Desktop\Exercicio1-10\CadastroDeAlunos\obj\Debug\net9.0\CadastroDeAlunos.dll
+C:\Users\46725344801\Desktop\Exercicio1-10\CadastroDeAlunos\obj\Debug\net9.0\refint\CadastroDeAlunos.dll
+C:\Users\46725344801\Desktop\Exercicio1-10\CadastroDeAlunos\obj\Debug\net9.0\CadastroDeAlunos.pdb
+C:\Users\46725344801\Desktop\Exercicio1-10\CadastroDeAlunos\obj\Debug\net9.0\CadastroDeAlunos.genruntimeconfig.cache
+C:\Users\46725344801\Desktop\Exercicio1-10\CadastroDeAlunos\obj\Debug\net9.0\ref\CadastroDeAlunos.dll
