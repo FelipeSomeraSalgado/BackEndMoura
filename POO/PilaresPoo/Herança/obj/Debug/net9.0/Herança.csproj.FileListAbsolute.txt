@@ -1,0 +1,15 @@
+C:\Users\46725344801\Desktop\BackEndMoura\POO\PilaresPoo\Herança\bin\Debug\net9.0\Herança.exe
+C:\Users\46725344801\Desktop\BackEndMoura\POO\PilaresPoo\Herança\bin\Debug\net9.0\Herança.deps.json
+C:\Users\46725344801\Desktop\BackEndMoura\POO\PilaresPoo\Herança\bin\Debug\net9.0\Herança.runtimeconfig.json
+C:\Users\46725344801\Desktop\BackEndMoura\POO\PilaresPoo\Herança\bin\Debug\net9.0\Herança.dll
+C:\Users\46725344801\Desktop\BackEndMoura\POO\PilaresPoo\Herança\bin\Debug\net9.0\Herança.pdb
+C:\Users\46725344801\Desktop\BackEndMoura\POO\PilaresPoo\Herança\obj\Debug\net9.0\Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46725344801\Desktop\BackEndMoura\POO\PilaresPoo\Herança\obj\Debug\net9.0\Herança.AssemblyInfoInputs.cache
+C:\Users\46725344801\Desktop\BackEndMoura\POO\PilaresPoo\Herança\obj\Debug\net9.0\Herança.AssemblyInfo.cs
+C:\Users\46725344801\Desktop\BackEndMoura\POO\PilaresPoo\Herança\obj\Debug\net9.0\Herança.csproj.CoreCompileInputs.cache
+C:\Users\46725344801\Desktop\BackEndMoura\POO\PilaresPoo\Herança\obj\Debug\net9.0\Herança.sourcelink.json
+C:\Users\46725344801\Desktop\BackEndMoura\POO\PilaresPoo\Herança\obj\Debug\net9.0\Herança.dll
+C:\Users\46725344801\Desktop\BackEndMoura\POO\PilaresPoo\Herança\obj\Debug\net9.0\refint\Herança.dll
+C:\Users\46725344801\Desktop\BackEndMoura\POO\PilaresPoo\Herança\obj\Debug\net9.0\Herança.pdb
+C:\Users\46725344801\Desktop\BackEndMoura\POO\PilaresPoo\Herança\obj\Debug\net9.0\Herança.genruntimeconfig.cache
+C:\Users\46725344801\Desktop\BackEndMoura\POO\PilaresPoo\Herança\obj\Debug\net9.0\ref\Herança.dll

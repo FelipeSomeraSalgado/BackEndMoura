@@ -81,6 +81,13 @@ void Depositar()
     }
     Console.WriteLine($"Valor para depósito: ");
     float valor = float.Parse(Console.ReadLine());
+
+if (valor <= 0)
+{
+        System.Console.WriteLine($"Nao aceitamos o valor");
+        return;
+}
+
     saldos[idCliente] += valor;
     Console.WriteLine($"Depósito de R$ {valor:F2} realizado");
     
