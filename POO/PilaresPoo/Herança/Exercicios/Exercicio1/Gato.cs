@@ -2,7 +2,7 @@ namespace Herança
 {
     public class Gato : Animal
     {
-        public void ExibirInfo()
+        public void InfoAnimal()
         {
             Console.WriteLine($"Nome: {Nome}");
             Console.WriteLine($"Raça: {Raca}");

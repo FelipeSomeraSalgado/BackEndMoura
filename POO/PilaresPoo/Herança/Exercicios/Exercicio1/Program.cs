@@ -1,10 +1,17 @@
 ﻿using Herança;
 
 
-Cachorro caramelo = new Cachorro();
-Gato frajola = new Gato();
+Cachorro Caramelo = new Cachorro();
+Gato Frajola = new Gato();
 
-Cachorro.Nome = "Alan";
-Cachorro.Raca = "caramelo";
-Cachorro.Idade = 11;
-Cachorro.FazerSomlatido();
+Caramelo.Nome = "Alan";
+Caramelo.Raca = "Caramelo";
+Caramelo.Idade = 11;
+
+Caramelo.FazerSom(); 
+
+Frajola.Nome = "Frajola";
+Frajola.Raca = "Gato preto e branco";
+Frajola.Idade = 5;
+
+Frajola.FazerSom(); 

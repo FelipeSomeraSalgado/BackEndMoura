@@ -2,8 +2,8 @@ namespace Herança
 {
     public class Conta
     {
-        public int Numero { get; set; }
-        public double Saldo { get; protected set; }
+        public int Numero;
+        public double Saldo;
 
         public void Depositar(double valor)
         {

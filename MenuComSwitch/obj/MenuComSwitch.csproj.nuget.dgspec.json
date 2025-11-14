@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\46725344801\\Desktop\\Exercicio1-10\\MenuComSwitch\\MenuComSwitch.csproj": {}
+    "C:\\Users\\46725344801\\Desktop\\BackEndMoura\\MenuComSwitch\\MenuComSwitch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\46725344801\\Desktop\\Exercicio1-10\\MenuComSwitch\\MenuComSwitch.csproj": {
+    "C:\\Users\\46725344801\\Desktop\\BackEndMoura\\MenuComSwitch\\MenuComSwitch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\46725344801\\Desktop\\Exercicio1-10\\MenuComSwitch\\MenuComSwitch.csproj",
+        "projectUniqueName": "C:\\Users\\46725344801\\Desktop\\BackEndMoura\\MenuComSwitch\\MenuComSwitch.csproj",
         "projectName": "MenuComSwitch",
-        "projectPath": "C:\\Users\\46725344801\\Desktop\\Exercicio1-10\\MenuComSwitch\\MenuComSwitch.csproj",
+        "projectPath": "C:\\Users\\46725344801\\Desktop\\BackEndMoura\\MenuComSwitch\\MenuComSwitch.csproj",
         "packagesPath": "C:\\Users\\46725344801\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\46725344801\\Desktop\\Exercicio1-10\\MenuComSwitch\\obj\\",
+        "outputPath": "C:\\Users\\46725344801\\Desktop\\BackEndMoura\\MenuComSwitch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\46725344801\\AppData\\Roaming\\NuGet\\NuGet.Config"
