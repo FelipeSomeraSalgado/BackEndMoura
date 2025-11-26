@@ -4,7 +4,7 @@ namespace Exercicio02
     {
         public string Devedor = "";
         public string Credor = "";
-        public float Valor = "";
+        public float Valor = 0;
         public int DiasAtraso = 0;
         public float Juros = 0.10f;
 
