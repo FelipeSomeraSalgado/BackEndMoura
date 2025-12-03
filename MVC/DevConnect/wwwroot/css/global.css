@@ -1,0 +1,172 @@
+/* 1 forma de utilizar uma fonte */
+/* @import url('https://fonts.googleapis.com/css2?family=Oi&display=swap'); */
+
+/* 2 forma de utilizar uma fonte */
+@font-face {
+    font-family: Billabong;
+    src: url(../assets/fonts/Billabong/billabong.ttf),
+        url(../assets/fonts/Billabong/billabong_regular.otf);
+}
+
+/* variaveis */
+:root {
+    --cor-preto: #000000;
+    --cor-verde-esmeralda: #419F93;
+    --cor-branco: #ffffff;
+    --cor-cinza-escuro1: #9B9B9B;
+    --cor-cinza-escuro2: #474747;
+    --cor-cinza-escuro3: #6F6F6F;
+    --cor-azul-escuro: #2C3E50;
+    --cor-azul-claro: #B3EFFF;
+    --cor-cinza-claro: #fafafa;
+
+    --borda: 1px solid var(--cor-cinza-escuro1);
+    --borda-arredondada: 2px;
+
+    --tamanho-fonte-lg: 20px;
+    --tamanho-fonte-md: 16px;
+    --tamanho-fonte-sm: 14px;
+}
+
+/* SELETOR GLOBAL */
+* {
+    padding: 0;
+    /*espaço interno*/
+    margin: 0;
+    /*espaço externo*/
+    box-sizing: border-box;
+    /*atribui espaços internos/externos e bordas no tamanho final do box*/
+    font-family: "Segoe UI", sans-serif;
+    outline-color: var(--cor-azul-claro);
+}
+
+  
+
+body {
+    background-color: var(--cor-cinza-claro);
+}
+
+
+h1 {
+    position: absolute;
+    /*altera a posição do elemento*/
+    z-index: -1;
+    /*camadas do elemento*/
+    opacity: 0;
+    /*opacidade*/
+}
+
+/*formulario*/
+.formulario-botao-azul {
+    background-color: var(--cor-verde-esmeralda);
+    border-radius: var(--borda-arredondada);
+    border: none;
+    /*tira a borda*/
+    height: 35px;
+
+    color: var(--cor-branco);
+    font-size: var(--tamanho-fonte-sm);
+}
+
+.formulario-campos>input {
+    border: var(--borda);
+    height: 35px;
+    background-color: var(--cor-cinza-escuro3);
+
+    color: var(--cor-cinza-escuro2);
+    font-size: var(--tamanho-fonte-sm);
+    border-radius: var(--borda-arredondada);
+}
+
+.formulario-campos>label {
+    font-size: var(--tamanho-fonte-sm);
+    color: var(--cor-cinza-escuro2);
+    font-weight: 600;
+    /**/
+}
+
+.estilo-formulario {
+    width: 100%;
+    background-color: var(--cor-azul-escuro);
+    border: var(--borda);
+}
+
+#campo-upload{
+    display: none;
+}
+
+#upload{
+    display: inline-block;
+    width: 210px;
+    max-width: 300px;
+    min-height: 35px; /*para se adaptar conforme seu conteudo*/
+    padding: 5px;
+    color: var(--cor-branco);
+    background-color: var(--cor-preto);
+    font-size: var(--tamanho-fonte-sm);
+    text-align: center;
+    border-radius: var(--borda-arredondada);
+    font-weight: 500;
+    
+}
+/*cabecalho */
+#cabecalho {
+    background-color: var(--cor-cinza-escuro2);
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: center; /*Alinha os filhos na direção do flex*/
+    border-bottom: var(--borda);
+}
+
+#cabecalho>nav {
+    background-color: var(--cor-cinza-escuro2);
+    width: 85%;
+    max-width: 900px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    /*Alinha os filhos na direção contraria flex*/
+    justify-content: space-between;
+}
+
+#logo-mobile{
+    display: none;
+}
+
+.cabecalho-acoes {
+    background-color: var(--cor-cinza-escuro2);
+    display: flex;
+    align-items: center;
+    /*justify-content: space-between;*/
+    gap: 15px;
+}
+
+.cabecalho-acoes>a {
+    display: flex;
+    align-items: center;
+}
+
+.foto-perfil {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    /*mantem a proporcao com um zoom para adaptar ao tamanho da imagem*/
+    object-position: center;
+    /*guiar a imagem*/
+    border-radius: 50%;
+    /*arredondar a imagem*/
+
+}
+
+/*RESPONSIVO*/
+@media only screen and (max-width: 500px){
+#logo-mobile {
+    display: initial;
+   }
+   #logo-desktop{
+    display: none;
+   }
+}
+
+

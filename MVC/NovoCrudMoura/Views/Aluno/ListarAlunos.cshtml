@@ -1,0 +1,15 @@
+<h1>Lista de Alunos</h1>
+
+<ul>
+@{
+    foreach(var item in ViewBag.Aluno){
+        <p>
+        Codigo: @item.ID<br/>
+        Nome: @item.Nome<br/>
+        CPF: @item.CPF<br/>
+        Idade: @item.Idade<br/>
+        Email: @item.EMail
+        </p>
+    }
+}
+</ul>

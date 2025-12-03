@@ -1,3 +1,11 @@
+C:\Users\46725344801\Desktop\BackEndMoura\MVC\CrudMoura\obj\Debug\net9.0\CrudMoura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46725344801\Desktop\BackEndMoura\MVC\CrudMoura\obj\Debug\net9.0\CrudMoura.AssemblyInfoInputs.cache
+C:\Users\46725344801\Desktop\BackEndMoura\MVC\CrudMoura\obj\Debug\net9.0\CrudMoura.AssemblyInfo.cs
+C:\Users\46725344801\Desktop\BackEndMoura\MVC\CrudMoura\obj\Debug\net9.0\CrudMoura.csproj.CoreCompileInputs.cache
+C:\Users\46725344801\Desktop\BackEndMoura\MVC\CrudMoura\obj\Debug\net9.0\CrudMoura.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\46725344801\Desktop\BackEndMoura\MVC\CrudMoura\obj\Debug\net9.0\CrudMoura.RazorAssemblyInfo.cache
+C:\Users\46725344801\Desktop\BackEndMoura\MVC\CrudMoura\obj\Debug\net9.0\CrudMoura.RazorAssemblyInfo.cs
+C:\Users\46725344801\Desktop\BackEndMoura\MVC\CrudMoura\obj\Debug\net9.0\CrudMoura.sourcelink.json
 C:\Users\46725344801\Desktop\BackEndMoura\MVC\CrudMoura\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\46725344801\Desktop\BackEndMoura\MVC\CrudMoura\bin\Debug\net9.0\appsettings.json
 C:\Users\46725344801\Desktop\BackEndMoura\MVC\CrudMoura\bin\Debug\net9.0\CrudMoura.staticwebassets.runtime.json
@@ -7,14 +15,6 @@ C:\Users\46725344801\Desktop\BackEndMoura\MVC\CrudMoura\bin\Debug\net9.0\CrudMou
 C:\Users\46725344801\Desktop\BackEndMoura\MVC\CrudMoura\bin\Debug\net9.0\CrudMoura.runtimeconfig.json
 C:\Users\46725344801\Desktop\BackEndMoura\MVC\CrudMoura\bin\Debug\net9.0\CrudMoura.dll
 C:\Users\46725344801\Desktop\BackEndMoura\MVC\CrudMoura\bin\Debug\net9.0\CrudMoura.pdb
-C:\Users\46725344801\Desktop\BackEndMoura\MVC\CrudMoura\obj\Debug\net9.0\CrudMoura.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\46725344801\Desktop\BackEndMoura\MVC\CrudMoura\obj\Debug\net9.0\CrudMoura.AssemblyInfoInputs.cache
-C:\Users\46725344801\Desktop\BackEndMoura\MVC\CrudMoura\obj\Debug\net9.0\CrudMoura.AssemblyInfo.cs
-C:\Users\46725344801\Desktop\BackEndMoura\MVC\CrudMoura\obj\Debug\net9.0\CrudMoura.csproj.CoreCompileInputs.cache
-C:\Users\46725344801\Desktop\BackEndMoura\MVC\CrudMoura\obj\Debug\net9.0\CrudMoura.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\46725344801\Desktop\BackEndMoura\MVC\CrudMoura\obj\Debug\net9.0\CrudMoura.RazorAssemblyInfo.cache
-C:\Users\46725344801\Desktop\BackEndMoura\MVC\CrudMoura\obj\Debug\net9.0\CrudMoura.RazorAssemblyInfo.cs
-C:\Users\46725344801\Desktop\BackEndMoura\MVC\CrudMoura\obj\Debug\net9.0\CrudMoura.sourcelink.json
 C:\Users\46725344801\Desktop\BackEndMoura\MVC\CrudMoura\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\46725344801\Desktop\BackEndMoura\MVC\CrudMoura\obj\Debug\net9.0\scopedcss\bundle\CrudMoura.styles.css
 C:\Users\46725344801\Desktop\BackEndMoura\MVC\CrudMoura\obj\Debug\net9.0\scopedcss\projectbundle\CrudMoura.bundle.scp.css

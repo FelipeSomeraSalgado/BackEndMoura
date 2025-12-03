@@ -52,12 +52,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/46725344801/Desktop/BackEndMoura/MVC/CrudMoura/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[C:/Users/46725344801/Desktop/BackEndMoura/MVC/CrudMoura/Views/Teste/Cadastrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGVcQ2FkYXN0cmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/46725344801/Desktop/BackEndMoura/MVC/CrudMoura/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[C:/Users/46725344801/Desktop/BackEndMoura/MVC/CrudMoura/Views/Teste/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGVcRWRpdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/46725344801/Desktop/BackEndMoura/MVC/CrudMoura/Views/Teste/Excluir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGVcRXhjbHVpci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/46725344801/Desktop/BackEndMoura/MVC/CrudMoura/Views/Teste/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/46725344801/Desktop/BackEndMoura/MVC/CrudMoura/Views/Teste/Listar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGVcTGlzdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/46725344801/Desktop/BackEndMoura/MVC/CrudMoura/Views/Teste/Teste.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGVcVGVzdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/46725344801/Desktop/BackEndMoura/MVC/CrudMoura/Views/Shared/_Layout.cshtml]
