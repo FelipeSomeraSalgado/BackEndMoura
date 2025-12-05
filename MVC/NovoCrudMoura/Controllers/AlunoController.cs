@@ -7,12 +7,21 @@ namespace NovoCrudMoura.Controllers
     public class AlunoController : Controller
     {
         private readonly ILogger<AlunoController> _logger;
+        private readonly CrudMouraContext _context;//representa nosso banco de dados
+
+        //construtor
+        public AlunoController(ILogger<AlunoController> logger, CrudMouraContext context)
+        {
+            
+            _logger = logger;
+            _context = context;
+        }
 
         public static List<Aluno> ListaDeAlunos = new List<Aluno>
         {
-            new Aluno{ID = 1, Nome = "Felipe Gomes", CPF = 12345678901, Idade = 17, EMail = "FelipeGomes@gmail"},
-            new Aluno{ID = 2, Nome = "Felipe Salgado", CPF = 12345678902, Idade = 16, EMail = "FelipeSalgado@gmail"},
-            new Aluno{ID = 3, Nome = "Felipe Torolho",  CPF = 12345678903, Idade = 16, EMail = "FelipeTorolho@gmail"},
+            new Aluno{ID = 1, Nome = "Felipe Gomes", CPF = "928.609.130-33", Idade = 17, EMail = "FelipeGomes@gmail"},
+            new Aluno{ID = 2, Nome = "Felipe Salgado", CPF = "928.609.130-32", Idade = 16, EMail = "FelipeSalgado@gmail"},
+            new Aluno{ID = 3, Nome = "Rafael Moura",  CPF = "173.029.150-32", Idade = 16, EMail = "RafaelMoura@gmail.com"}, 
         };
 
         public AlunoController(ILogger<AlunoController> logger)
